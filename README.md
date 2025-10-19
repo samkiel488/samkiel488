@@ -3,7 +3,7 @@ I’m **Samkiel**, a full-stack software engineer and cyber securitiest focused 
 
 🚀 **Currently working on:**  
 - D3V++ community platform (web + app)  
-- Real-time chat systems using Node.js, Socket.io & MySQL  
+- Real-time chat systems using React, Node.js, Socket.io & Mongodb 
 - Expanding my personal automation bot project  
 
 🌱 **Learning:**  
