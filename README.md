@@ -65,5 +65,7 @@ I enjoy late-night debugging and turning complex problems into clean, working co
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/samkiel)
 
 ---
+---
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=samkiel488&label=Profile%20Views&color=0e75b6&style=flat)
+#![Profile Views](https://komarev.com/ghpvc/?username=samkiel488&label=Profile%20Views&color=0e75b6&style=flat)
