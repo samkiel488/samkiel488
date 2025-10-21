@@ -66,4 +66,4 @@ I enjoy late-night debugging and turning complex problems into clean, working co
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=samkiel488&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=samkiel488&label=Profile%20Views&color=0e75b6&style=flat)
