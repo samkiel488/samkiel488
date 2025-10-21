@@ -68,4 +68,4 @@ I enjoy late-night debugging and turning complex problems into clean, working co
 ---
 ---
 
-#![Profile Views](https://komarev.com/ghpvc/?username=samkiel488&label=Profile%20Views&color=0e75b6&style=flat)
+## ![Profile Views](https://komarev.com/ghpvc/?username=samkiel488&label=Profile%20Views&color=0e75b6&style=flat)
