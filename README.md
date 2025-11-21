@@ -23,7 +23,7 @@ I enjoy late-night debugging and turning complex problems into clean, working co
 
 ## 🌐 Connect With Me  
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samkiel.dev)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samkiel488)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samkiell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samkiell)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samkiel.dev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samkieldev)
@@ -44,14 +44,14 @@ I enjoy late-night debugging and turning complex problems into clean, working co
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=samkiel488&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=samkiel488&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiel488&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=samkiell&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=samkiell&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiell&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=samkiel488&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=samkiell&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -68,4 +68,4 @@ I enjoy late-night debugging and turning complex problems into clean, working co
 ---
 ---
 
-## ![Profile Views](https://komarev.com/ghpvc/?username=samkiel488&label=Profile%20Views&color=0e75b6&style=flat)
+## ![Profile Views](https://komarev.com/ghpvc/?username=samkiell&label=Profile%20Views&color=0e75b6&style=flat)
